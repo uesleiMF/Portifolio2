@@ -73,24 +73,8 @@
   background-size: cover;
   background-size: 66px;
 }
-.qualifications-container .qualification .content.c-plus-plus {
-  background: rgba(255, 255, 255, 0.103) url(../props/c-plus-plus.png);
-  background-position: center;
-  background-size: cover;
-  background-size: 66px;
-}
-.qualifications-container .qualification .content.c-sharp {
-  background: rgba(255, 255, 255, 0.103) url(../props/c-sharp.png);
-  background-position: center;
-  background-size: cover;
-  background-size: 66px;
-}
-.qualifications-container .qualification .content.kotlin {
-  background: rgba(255, 255, 255, 0.103) url(../props/kotlin.png);
-  background-position: center;
-  background-size: cover;
-  background-size: 66px;
-}
+
+
 
 @media (max-width: 820px) {
   .quali-text {

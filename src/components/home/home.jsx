@@ -36,9 +36,7 @@ function Home() {
       <h2>
         <span>About Me</span> <br />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis id
-          quos deserunt, maxime sint sunt tempore quidem ad praesentium itaque,
-          aspernatur, magnam culpa iste adipisci?
+       sim?
         </p>
       </h2>
 

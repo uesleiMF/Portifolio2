@@ -3,7 +3,7 @@ import "./qualifications.css";
 const Qualifications = () => {
   return (
     <div>
-      <span className="quali-text">My Qualifications</span>
+      <span className="quali-text">Minhas Qualificações</span>
       <div className="qualifications-container">
         <div className="qualification">
           <div className="content html"></div>
@@ -25,18 +25,8 @@ const Qualifications = () => {
           <div className="content react"></div>
           <h1>react</h1>
         </div>
-        <div className="qualification">
-          <div className="content c-plus-plus"></div>
-          <h1>c++</h1>
-        </div>
-        <div className="qualification">
-          <div className="content c-sharp"></div>
-          <h1>c#</h1>
-        </div>
-        <div className="qualification">
-          <div className="content kotlin"></div>
-          <h1>kotlin</h1>
-        </div>
+      
+       
       </div>
     </div>
   );

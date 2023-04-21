@@ -7,15 +7,13 @@ const Members = () => {
       <div className="member member-1">
         <div className="member-img"></div>
         <div className="member-info">
-          <h1 className="name">Chrys</h1>
-          <h3 className="position">Leader</h3>
+          <h1 className="name">S</h1>
+          <h3 className="position">L</h3>
           <h4 className="about">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus
-            maiores harum laborum vero recusandae? Cumque nam facere aspernatur
-            autem eius!
+           Sim!
           </h4>
           <a href="#contact" className="contact-member">
-            <span>contact</span>
+            <span>contato</span>
           </a>
         </div>
       </div>
@@ -23,12 +21,10 @@ const Members = () => {
       <div className="member member-2">
         <div className="member-img"></div>
         <div className="member-info">
-          <h1 className="name">CChrys</h1>
-          <h3 className="position">Another Leader</h3>
+          <h1 className="name">C</h1>
+          <h3 className="position">Anot</h3>
           <h4 className="about">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus
-            maiores harum laborum vero recusandae? Cumque nam facere aspernatur
-            autem eius!
+            Nao!
           </h4>
           <a href="#contact" className="contact-member">
             <span>contact</span>
@@ -36,22 +32,9 @@ const Members = () => {
         </div>
       </div>
 
-      <div className="member member-3">
-        <div className="member-img"></div>
-        <div className="member-info">
-          <h1 className="name">CCChrys</h1>
-          <h3 className="position">Another Leader Again</h3>
-          <h4 className="about">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus
-            maiores harum laborum vero recusandae? Cumque nam facere aspernatur
-            autem eius!
-          </h4>
-          <a href="#contact" className="contact-member">
-            <span>contact</span>
-          </a>
+     
         </div>
-      </div>
-    </div>
+  
   );
 };
 
